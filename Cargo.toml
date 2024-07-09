@@ -5,5 +5,5 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1.38.0", features = ["full"] }
-clap = { version = "4.5.8", features = ["derive"] }
+clap = { version = "4.5.9", features = ["derive"] }
 #toml = "0.8.14"
